@@ -1,0 +1,26 @@
+
+
+h1{
+    font-size: 18px;
+    font-family: "Times New Roman", Times, serif;
+    color:royalblue
+}
+
+
+.col-md-9{
+    background-color: rgb(255, 255, 255);
+    margin: 0 auto;
+}
+
+.container{
+    position: absolute;
+    position:0%;
+    background-color: rgb(255, 255, 255);
+    margin: 0 auto;
+}
+
+#new-back{
+    background-color: rgb(151, 146, 146);
+}
+
+
